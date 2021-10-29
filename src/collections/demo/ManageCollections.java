@@ -5,5 +5,4 @@ public interface ManageCollections {
         void removeElement(String info);
         void iterate();
         void showProperties();
-
 }
